@@ -5,7 +5,7 @@ This static chatbot allows you to pick pre defined questions like:
 * Projects?
 * Contact?
 
-And gives you all necessary information regarding it. The answer of the chatbot can be simply copy-pasted from your CV or you can add some extra info. Further, the questions asked are also extendable/editable, so feel free to share/change it!
+And gives you all necessary information regarding it. The answers and questions of the chatbot are extendable/editable, so feel free to share/change it (inside index.html)!
 
 ## Installation
 Installing it is straightforward:
